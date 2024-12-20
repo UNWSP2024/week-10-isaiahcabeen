@@ -1,0 +1,18 @@
+Start → Define Class Car
+Inside Car Class:
+__init__(year_model, make): Initialize __year_model, __make, __speed.
+Method accelerate(): Increase __speed by 5.
+Method brake(): Decrease __speed by 5.
+Method get_speed(): Return __speed.
+End Class
+Main Program Flowchart:
+
+Start Program
+Create Car Object (my_car = Car(2024, "Toyota"))
+Loop 5 times to Accelerate:
+Call accelerate()
+Display get_speed()
+Loop 5 times to Brake:
+Call brake()
+Display get_speed()
+End Program
