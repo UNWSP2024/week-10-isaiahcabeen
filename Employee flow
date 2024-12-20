@@ -1,0 +1,14 @@
+Start → Define Class Employee
+Inside Employee Class:
+__init__(name, id_number, department, job_title): Initialize name, id_number, department, job_title.
+Method display_employee_details(): Print employee details.
+End Class
+Main Program Flowchart:
+
+Start Program
+Create 3 Employee Objects:
+employee1 = Employee(...)
+employee2 = Employee(...)
+employee3 = Employee(...)
+Call display_employee_details() for Each Employee
+End Program
